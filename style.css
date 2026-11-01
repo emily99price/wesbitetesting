@@ -55,3 +55,7 @@ a:active {
    border-width: 5px;
    
 }
+.nav-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
